@@ -8,21 +8,16 @@ Or moving. Or anything, really.
 
 A billion lights exploded as I opened my eyes. Then all went dark.
 
-My eyes slowly adjusted to the darkness as I felt around. I seemed to be in a plastic bag.
+My eyes slowly adjusted to the darkness as I felt around. I realised where I was.
 
-I took out a sharp blade from my pocket and set out to cutting myself free.
+I was in a grave.
 
-Any normal person wouldn't have a knife.
+Any normal person would panic.
 
 But I wasn't any normal person.
 
 I was a private detective.
 
-As soon as I cut through the plastic, mounds of mud came rushing through the gap, straight to my face.
-
-As I coughed and spluttered, I realised where I was.
-
-I was in a grave.
 
 The thumping in my head wouldn't go away, but I finally remembered some of the events of the past 12 hours.
 
@@ -42,7 +37,7 @@ I couldn't blame them.
 
 They did a pretty bad job of killing me too.
 
-But the damned headb thumping wouldn't go away.
+But the damned head thumping wouldn't go away.
 
 I hoisted myself out of the grave and onto the grassy ground.
 
@@ -56,7 +51,7 @@ Rudely interrupted during his burial duties, I figured from the shovel in his ha
 
 I looked around. Graves in all the three directions, and the sea on the other one.
 
-I dropped down on my knee and searched the dead man. He had a gun in his packet, a wallet, a lighter and a couple of cigarettes.
+I dropped down on my knee and searched the dead man. He had a gun in his pocket, a wallet, a lighter and a couple of cigarettes.
 
 I took everything.
 
