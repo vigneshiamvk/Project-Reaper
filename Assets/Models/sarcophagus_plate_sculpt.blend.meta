@@ -5,14 +5,25 @@ ModelImporter:
   fileIDToRecycleName:
     100000: //RootNode
     100002: sarcophagus_plate_sculpt_LOD0
+    100004: sarcophagus_plate_sculpt_LOD1
+    100006: sarcophagus_plate_sculpt_LOD2
     400000: //RootNode
     400002: sarcophagus_plate_sculpt_LOD0
+    400004: sarcophagus_plate_sculpt_LOD1
+    400006: sarcophagus_plate_sculpt_LOD2
     2100000: M_grave_body_cloth
     2300000: sarcophagus_plate_sculpt_LOD0
+    2300002: sarcophagus_plate_sculpt_LOD1
+    2300004: sarcophagus_plate_sculpt_LOD2
     3300000: sarcophagus_plate_sculpt_LOD0
+    3300002: sarcophagus_plate_sculpt_LOD1
+    3300004: sarcophagus_plate_sculpt_LOD2
     4300000: sarcophagus_plate_sculpt_LOD0
+    4300002: sarcophagus_plate_sculpt_LOD2
+    4300004: sarcophagus_plate_sculpt_LOD1
     7400000: Default Take
     9500000: //RootNode
+    20500000: //RootNode
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -43,7 +54,10 @@ ModelImporter:
     clipAnimations: []
     isReadable: 1
   meshes:
-    lODScreenPercentages: []
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.01
     globalScale: 1
     meshCompression: 0
     addColliders: 0
