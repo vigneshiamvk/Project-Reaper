@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="717e60da-094f-4eb5-9487-00fab822e097" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 1.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 1.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 2.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 2.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 3.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio PROCESSED/Clip 3.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Big_gate_portal.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Cart_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Cart_wheel.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Church_Bell.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Church_tower.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Church_wood_bell.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Coffin_broken_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Coffin_broken_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Coffin_cap.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Coffin_cross.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Coffin_down.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Column_square_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Column_square_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Death_Statue.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Door_big_left_wing.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Door_big_right_wing.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Door_handle.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Door_small.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Dyke_Roof_bend90_big.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Dyke_roof_big.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_big_gate_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_big_gate_rossete_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_big_rossete_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_half.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_small.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_small_door_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_small_door_portal.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_small_gate_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Firewall_small_triangle_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Floor.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Gargoyle_wings.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Gargoyle_without_wings.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Goblet_embers.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Goblet_fire_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_3.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_4.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_5.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_6.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Grave_shovel.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Iron_candlestick.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Iron_torch_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Iron_torch_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Iron_torch_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock_skull_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock_skull_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock_stairs_set_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Rock_stairs_set_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_big_stones_half.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_big_x2_T.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_big_x2_tiled.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_big_x2_to_tile_half.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_small_x2_tiled.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Roof_stone_center.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Sarcophagus_Stone_knight.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Stone_step.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Terrain_Mesh.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x05_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x1_02_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x1_03_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x1_05.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x1_06_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_big_x1_07.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_rock_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_rock_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_rock_3.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_small_x04_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_small_x1_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_small_x1_02_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_small_x1_03_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Wall_small_x1_04_base.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/WalnutTree.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/firewall_triangle_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/gargoyle_model.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/grave_pickaxe.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/rock_skull_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_cap.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stone_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stone_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stone_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stones_big.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stones_big_tower.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stones_small.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/roof_stones_small_tower.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/rossete_window.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_arches_01_A.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_arches_01_B.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_arches_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_arches_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_column_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_column_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_column_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_element_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_element_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_element_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_element_04.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_element_05.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_grave_body_cloth.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sarcophagus_plate_sculpt.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_rock_1.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_rock_2.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_rock_3.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_rock_4.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_rock_5.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_window.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/small_window_noglass.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/socle.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stair_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stair_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stair_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stair_04.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stair_05.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/stone_cross.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/sword_Stone.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/tile_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/tile_02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/tile_03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/tile_05.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/tile_06.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wall_rock_portal_01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wall_small_door_portal.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_candlestick.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_middle_purlin__01.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_middle_purlin__02.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_middle_purlin__03.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_middle_purlins_x3.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_roof_big_purlin.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_roof_normalize_purlin.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/wood_roof_small_low.blend1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DemoInputManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4035">
+              <caret line="274" column="38" lean-forward="true" selection-start-line="274" selection-start-column="38" selection-end-line="274" selection-end-column="38" />
+              <folding>
+                <marker date="1531126565000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
+                <marker date="1531126565000" expanded="true" signature="747:12252" ph="{...}" />
+                <marker date="1531126565000" expanded="false" signature="757:860" ph="..." />
+                <marker date="1531126565000" expanded="true" signature="997:12250" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="2938:2977" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="3346:5343" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="3381:3603" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="3490:3595" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="3825:4103" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="4706:4915" ph="/* On a non-Daydream ready phone, fall back to Cardboard if it's present in the list of ... */" />
+                <marker date="1531126565000" expanded="true" signature="5412:6248" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="5702:5727" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="5848:5922" ph="/* Running on an Android device. ... */" />
+                <marker date="1531126565000" expanded="true" signature="6288:6320" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="6373:6570" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="6624:6822" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="6920:7560" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="6995:7020" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="7028:7175" ph="/* Player Settings &gt; VR SDK list may have changed at runtime. The emulated platform ... */" />
+                <marker date="1531126565000" expanded="true" signature="7286:7361" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="7480:7554" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="8636:11095" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="8694:8719" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="8934:9049" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="9191:9378" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="9231:9354" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="9762:10646" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="10775:10908" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11136:11226" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11277:11681" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11313:11338" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11469:11494" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11617:11675" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11738:12246" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11774:11825" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="11863:11888" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="12022:12047" ph="{...}" />
+                <marker date="1531126565000" expanded="true" signature="12182:12240" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AudioManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="DemoSceneManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoSceneManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+              <folding>
+                <marker date="1528618240000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
+                <marker date="1528618240000" expanded="true" signature="635:964" ph="{...}" />
+                <marker date="1528618240000" expanded="true" signature="749:962" ph="{...}" />
+                <marker date="1528618240000" expanded="true" signature="768:815" ph="{...}" />
+                <marker date="1528618240000" expanded="true" signature="835:958" ph="{...}" />
+                <marker date="1528618240000" expanded="true" signature="915:952" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DemoInputManagerEditor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+              <folding>
+                <marker date="1528618239000" expanded="true" signature="0:608" ph="/* Copyright 2016 Google Inc. All rights reserved. ... */" />
+                <marker date="1528618239000" expanded="true" signature="635:2453" ph="{...}" />
+                <marker date="1528618239000" expanded="false" signature="645:678" ph="..." />
+                <marker date="1528618239000" expanded="true" signature="770:2451" ph="{...}" />
+                <marker date="1528618239000" expanded="true" signature="984:1455" ph="{...}" />
+                <marker date="1528618239000" expanded="true" signature="1499:2447" ph="{...}" />
+                <marker date="1528618239000" expanded="true" signature="2169:2390" ph="{...}" />
+                <marker date="1528618239000" expanded="true" signature="2179:2317" ph="/* Show the platform emulation dropdown only if both or neither VR SDK selected in ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>click(</find>
+      <find>teleportRan</find>
+      <find>daydream</find>
+      <find>click</find>
+      <find>OnPointerClick</find>
+      <find>tele</find>
+      <find>isDaydream =</find>
+      <find>isDaydream</find>
+      <find>isDay</find>
+      <find>isDayDream</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrEventInterfacesExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrExecuteEventsExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/AlphaButtonClickMask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/GvrCardboardHelpers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD697842-2995-4C31-B707-2F79E4886BE6/1e/f0c829a6/InvokableCall.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/VideoDemo/ScrubberEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrAllEventsTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/UI/GvrDropdown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrBasePointer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrEventExecutor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD697842-2995-4C31-B707-2F79E4886BE6/23/8e539a33/UnityEvent`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModuleImpl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/InputModule/GvrPointerInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97A637BF-5181-46CF-AD16-41885C6A2DEE/25/233f6c24/EventTrigger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/EventSystem/GvrBasePointerRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoSceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/Keyboard/GvrKeyboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97A637BF-5181-46CF-AD16-41885C6A2DEE/cb/4cf31639/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/InstantPreview/InstantPreview.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/KeyboardDemo/KeyboardDelegateExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97A637BF-5181-46CF-AD16-41885C6A2DEE/6b/0b22c532/EventSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SpinScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogueScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Scripts/Utilities/GvrDaydreamApi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD697842-2995-4C31-B707-2F79E4886BE6/d6/c83b14ab/UnityEvent`2.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="827" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Project-Reaper" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="DemoInPut&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs&#10;DemoInput&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs&#10;De&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Scripts/DemoSceneManager.cs&#10;DemoIn&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs&#10;Objec&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs&#10;ObjectController.cs&#9;FILE&#9;file:///Users/ashok-4983/UnityHome/Project-Reaper/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="717e60da-094f-4eb5-9487-00fab822e097" name="Default" comment="" />
+      <created>1529987151840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529987151840</updated>
+      <workItem from="1529987154342" duration="80000" />
+      <workItem from="1531040482009" duration="3000" />
+      <workItem from="1531040735387" duration="3608000" />
+      <workItem from="1531124819802" duration="897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4588000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="827" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="NuGet" order="14" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19527897" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Unity" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/HelloVR/ObjectController.cs" initialLine="61">
+            <startOffsets>
+              <startOffset value="1966" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="2007" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoInputManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4035">
+          <caret line="274" column="38" lean-forward="true" selection-start-line="274" selection-start-column="38" selection-end-line="274" selection-end-column="38" />
+          <folding>
+            <marker date="1531126565000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
+            <marker date="1531126565000" expanded="true" signature="747:12252" ph="{...}" />
+            <marker date="1531126565000" expanded="false" signature="757:860" ph="..." />
+            <marker date="1531126565000" expanded="true" signature="997:12250" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="2938:2977" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="3346:5343" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="3381:3603" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="3490:3595" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="3825:4103" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="4706:4915" ph="/* On a non-Daydream ready phone, fall back to Cardboard if it's present in the list of ... */" />
+            <marker date="1531126565000" expanded="true" signature="5412:6248" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="5702:5727" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="5848:5922" ph="/* Running on an Android device. ... */" />
+            <marker date="1531126565000" expanded="true" signature="6288:6320" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="6373:6570" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="6624:6822" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="6920:7560" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="6995:7020" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="7028:7175" ph="/* Player Settings &gt; VR SDK list may have changed at runtime. The emulated platform ... */" />
+            <marker date="1531126565000" expanded="true" signature="7286:7361" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="7480:7554" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="8636:11095" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="8694:8719" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="8934:9049" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="9191:9378" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="9231:9354" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="9762:10646" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="10775:10908" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11136:11226" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11277:11681" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11313:11338" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11469:11494" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11617:11675" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11738:12246" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11774:11825" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="11863:11888" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="12022:12047" ph="{...}" />
+            <marker date="1531126565000" expanded="true" signature="12182:12240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Scripts/DemoSceneManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <marker date="1528618240000" expanded="true" signature="0:608" ph="/* Copyright 2017 Google Inc. All rights reserved. ... */" />
+            <marker date="1528618240000" expanded="true" signature="635:964" ph="{...}" />
+            <marker date="1528618240000" expanded="true" signature="749:962" ph="{...}" />
+            <marker date="1528618240000" expanded="true" signature="768:815" ph="{...}" />
+            <marker date="1528618240000" expanded="true" signature="835:958" ph="{...}" />
+            <marker date="1528618240000" expanded="true" signature="915:952" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GoogleVR/Demos/Editor/DemoInputManagerEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <marker date="1528618239000" expanded="true" signature="0:608" ph="/* Copyright 2016 Google Inc. All rights reserved. ... */" />
+            <marker date="1528618239000" expanded="true" signature="635:2453" ph="{...}" />
+            <marker date="1528618239000" expanded="false" signature="645:678" ph="..." />
+            <marker date="1528618239000" expanded="true" signature="770:2451" ph="{...}" />
+            <marker date="1528618239000" expanded="true" signature="984:1455" ph="{...}" />
+            <marker date="1528618239000" expanded="true" signature="1499:2447" ph="{...}" />
+            <marker date="1528618239000" expanded="true" signature="2169:2390" ph="{...}" />
+            <marker date="1528618239000" expanded="true" signature="2179:2317" ph="/* Show the platform emulation dropdown only if both or neither VR SDK selected in ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

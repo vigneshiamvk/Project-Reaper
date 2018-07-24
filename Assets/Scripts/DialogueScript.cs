@@ -2,61 +2,72 @@
 
 public class DialogueScript : MonoBehaviour 
 {
-    AudioSource dialogueSource;
-    Sound[] dialogueSounds;
 
-    private void Start()
+    void Start()
     {
-        dialogueSounds = FindObjectOfType<AudioManager>().sounds;
+       
     }
 
-    public void PlayDialogue()
+    public void loadDialogueOntoGO(GameObject gameObject)
     {
-        Debug.Log("audioManager - s:" + dialogueSounds.Length);
+        Component gameObjectAudioSourceComponent = gameObject.GetComponent<AudioSource>();
 
-        dialogueSource = gameObject.AddComponent<AudioSource>();
+        if (gameObjectAudioSourceComponent != null)
+        {
+            return;
+        }
+
+        AudioSource dialogueSource = gameObject.AddComponent<AudioSource>();
         string gameObjectName = gameObject.name;
-        Debug.Log("gameObjectName ::" + gameObjectName);
 
-        setAudioProperties(gameObjectName,dialogueSource);
+        setAudioProperties(gameObjectName, dialogueSource);
+
+    }
+
+    public void playDialogueOfGO(GameObject gameObject)
+    {
+        AudioSource dialogueSource = gameObject.GetComponent<AudioSource>();
+
+        if(dialogueSource == null)
+        {
+            Debug.Log("audio source not set for GO");
+            return;
+        }
 
         if(dialogueSource.isPlaying)
         {
             return;
         }
 
-        bool canPlayDialogue = getCanPlayDialogue(gameObjectName);
+        bool canPlayDialogue = getCanPlayDialogue(int.Parse(gameObject.name));
 
         if(canPlayDialogue)
         {
-            FindObjectOfType<AudioManager>().dialogueCount++;
-            FindObjectOfType<AudioManager>().Play(dialogueSource);
+            AudioManager.dialogueCount++;
+            dialogueSource.Play();
         }
-
-
 
     }
 
-    private void setAudioProperties(string gameObjectName, AudioSource dialogueSource)
+    void setAudioProperties(string gameObjectName, AudioSource dialogueSource)
     {
         
-        foreach(Sound s in dialogueSounds)
+        foreach(Sound s in FindObjectOfType<AudioManager>().sounds)
         {
             if(s.name.Equals(gameObjectName))
             {
                 dialogueSource.clip = s.clip;
                 dialogueSource.volume = s.volume;
-                //dialogueSource.pitch = s.pitch;
+                dialogueSource.loop = s.loop;
                 break;
             }
         }
 
     }
 
-    bool getCanPlayDialogue(string gameObjectName)
+    public bool getCanPlayDialogue(int dialogueNumber)
     {
-        int dialogueNumber = int.Parse(gameObjectName);
-        if(FindObjectOfType<AudioManager>().dialogueCount == dialogueNumber)
+        if(AudioManager.dialogueCount.Equals(dialogueNumber))
         {
             return true;
         }
